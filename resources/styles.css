@@ -1,7 +1,7 @@
 /* FONT */
 @font-face {
     font-family: "Hot Dog";
-    src: url("/Users/caitlinmichie/Documents/CodeAcademy/FlexBoxBusinessSite/fonts/hotdog.ttf") format("truetype");
+    src: url("../fonts/hotdog.ttf") format("truetype");
 }
 
 /*Elements*/
